@@ -1,0 +1,27 @@
+table {
+  border: solid;
+  text-align: left;
+  width: 1000px;
+  height: 200px;
+}
+th {
+  text-decoration: underline;
+  weight: bold;
+  width: 1000px;
+  background-color: yellow;
+}
+.darkr {
+    background-color: #556270;
+    color:#FAF4E3;
+    /* Color Palette adapted from:
+    http://www.colourlovers.com/palette/1058739/[p]_Wintry_Magic   */
+}
+.lightr {
+    background-color: #FAF4E3;/*light*/
+  /* Color Palette adapted from:
+  http://www.colourlovers.com/palette/1058739/[p]_Wintry_Magic   */
+}
+td:hover{
+  background-color: #C0A878;
+  color: yellow;
+}
